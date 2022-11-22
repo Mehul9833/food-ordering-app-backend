@@ -1,0 +1,41 @@
+{
+	"food": [
+		{
+			"name": "Italian Cuisine",
+			"image": "https://res.cloudinary.com/mehulprojectimages/image/upload/v1668955896/food-app/Italian-Cusine_ia9hh9.png",
+			"subFoodItemData": {
+				"name": "Tasty Italian Cuisine",
+				"subItems": [
+					{
+						"name": "Risotto de la Grande",
+						"                       image": "https://res.cloudinary.com/mehulprojectimages/image/upload/v1668957396/food-app/Risotto_de_la_Grande_u3opxh.png",
+						"price": "450",
+						"description": "Risotto is a northern Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be derived from meat, fish, or vegetables"
+					},
+					{
+						"name": "Ravioli Junction",
+						"                       image": "https://res.cloudinary.com/mehulprojectimages/image/upload/v1668957399/food-app/Pasta_savoury_h9btou.png",
+						"price": "300",
+						"description": "Malabar Junction: Best ravioli, awesome food!"
+					}
+				]
+			}
+		},
+		{
+			"name": "Burger",
+			"image": "https://res.cloudinary.com/mehulprojectimages/image/upload/v1637677675/Pizza%20shopping%20App/pizza_bc1reh.png",
+			"subFoodItemData": {
+				"name": "Tasty Pizza",
+				"subItems": [
+					{
+						"name": "Tomato Basil Italian Pizza",
+						"                       image": "https://res.cloudinary.com/mehulprojectimages/image/upload/v1637677675/Pizza%20shopping%20App/pizza_bc1reh.png",
+						"price": "450",
+						"description": "Hello",
+						"isAdded": false
+					}
+				]
+			}
+		}
+	]
+}
